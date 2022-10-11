@@ -1,0 +1,9 @@
+<svg width="100" height="30" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+    <line x1="0" y1="15" x2="37" y2="15" fill="#000" style="stroke:#000;stroke-width:2"/>
+    <path d="M41 5 C 36 10, 36 20, 41 25" fill="none" style="stroke:#000;stroke-width:2"/>
+    <path d="M59 5 C 64 10, 64 20, 59 25" fill="none" style="stroke:#000;stroke-width:2"/>
+    <line x1="63" y1="15" x2="100" y2="15" fill="#000" style="stroke:#000;stroke-width:2"/>
+ </g>
+</svg>
